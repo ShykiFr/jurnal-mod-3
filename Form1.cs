@@ -16,5 +16,10 @@ namespace jurnal_mod3
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

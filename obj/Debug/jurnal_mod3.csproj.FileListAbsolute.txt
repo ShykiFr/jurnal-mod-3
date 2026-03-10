@@ -1,0 +1,10 @@
+C:\Users\MSI CYBORG\source\repos\jurnal_mod3\jurnal_mod3\bin\Debug\jurnal_mod3.exe.config
+C:\Users\MSI CYBORG\source\repos\jurnal_mod3\jurnal_mod3\bin\Debug\jurnal_mod3.exe
+C:\Users\MSI CYBORG\source\repos\jurnal_mod3\jurnal_mod3\bin\Debug\jurnal_mod3.pdb
+C:\Users\MSI CYBORG\source\repos\jurnal_mod3\jurnal_mod3\obj\Debug\jurnal_mod3.csproj.AssemblyReference.cache
+C:\Users\MSI CYBORG\source\repos\jurnal_mod3\jurnal_mod3\obj\Debug\jurnal_mod3.Form1.resources
+C:\Users\MSI CYBORG\source\repos\jurnal_mod3\jurnal_mod3\obj\Debug\jurnal_mod3.Properties.Resources.resources
+C:\Users\MSI CYBORG\source\repos\jurnal_mod3\jurnal_mod3\obj\Debug\jurnal_mod3.csproj.GenerateResource.cache
+C:\Users\MSI CYBORG\source\repos\jurnal_mod3\jurnal_mod3\obj\Debug\jurnal_mod3.csproj.CoreCompileInputs.cache
+C:\Users\MSI CYBORG\source\repos\jurnal_mod3\jurnal_mod3\obj\Debug\jurnal_mod3.exe
+C:\Users\MSI CYBORG\source\repos\jurnal_mod3\jurnal_mod3\obj\Debug\jurnal_mod3.pdb
